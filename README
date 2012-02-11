@@ -1,0 +1,3 @@
+This project makes use of Microsoft's excellent (and freely available) Bilingual Sentence Aligner. You can find it here: http://research.microsoft.com/en-us/downloads/aafd5dcf-4dcc-49b2-8a22-f7055113e656/ 
+
+I have not included it in the project, so if you want to download this project, you should also get yourself a copy of the Sentence Aligner.
